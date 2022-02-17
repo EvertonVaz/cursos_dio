@@ -127,13 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-caminhos.py
-main.py
-add_startup.py
-.idea/
+*.idea/
 .tmp.drivedownload/
 .tmp.driveupload/
 .ipynb_checkpoints/
-
 
